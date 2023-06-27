@@ -61,7 +61,15 @@ Ce projet se base sur la démo de Broadleaf Commerce : https://github.com/Broadl
         
         -Attendre que le lancement soit fini (20 à 50s)
         -Connexion au site client:
+
+        ```shell
         http://localhost:8080
-        https://localhost:8443
+        ```
+        
+        ```shell
+         https://localhost:8443
+        ```
+       
+       
 
         -Pour se connecter ailleurs voir les ports sur https://github.com/BroadleafCommerce/DemoSite#active-ports

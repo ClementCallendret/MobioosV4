@@ -4,17 +4,17 @@ Ce projet se base sur la démo de Broadleaf Commerce : https://github.com/Broadl
 
 ------------------------------------------------------------------------------------------------------
 ## Prérequis :
--Windows
--Java
--Visual Studio Code
+- `Windows`
+- `Java`
+- `Visual Studio Code`
 
--Extension vs code :
-    Nécessaire : 
-    -Mobioos Forge (extension id : Mobioos.mobioos-forge)
-    -Extension Pack for Java (extension id : vscjava.vscode-java-pack)
+- `Extension vs code :`
+    - `Nécessaire :` 
+        - `Mobioos Forge (extension id : Mobioos.mobioos-forge)`
+        - `Extension Pack for Java (extension id : vscjava.vscode-java-pack)`
 
-    Optionnelle : 
-    -Dependency Analytics (extension id : redhat.fabric8-analytics)
+    - `Optionnelle :` 
+        - `Dependency Analytics (extension id : redhat.fabric8-analytics)`
 ------------------------------------------------------------------------------------------------------
 ## Initialisation :
     -LIRE LA DOC MOBIOOS : https://documentation.mobioos.ai/?id=what-is-mobioos-forge 

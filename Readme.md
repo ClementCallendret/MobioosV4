@@ -80,6 +80,7 @@ Aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fi
     (Si vous arrêter le programme avec un Ctrl + C le port reste ouvert, donc quand vous aller essayer de le relancer une erreur apparaitra, ce n'est pas grave, relancer la commande une nouvelle fois, 3 fois max).
 
 8. Attendre que le lancement soit fini (20 à 50s)
+![ImageStarted](ReadmeImages/ReadmeImagesStarted.png)
 9. Connexion au site client:
 
     [En http](http://localhost:8080) avec le port 8080

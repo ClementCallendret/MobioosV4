@@ -108,9 +108,7 @@ Aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fi
 <body>
   <div class="element">
     Passez la souris ici !
-    <span class="texte-cache">
-test
-    </span>
+    <span class="texte-cache">Texte affiché au survol.</span>
   </div>
 </body>
 </html>

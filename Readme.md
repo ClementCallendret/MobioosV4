@@ -35,7 +35,8 @@ Ce projet se base sur la démo de Broadleaf Commerce : https://github.com/Broadl
 ## Utilisation :
 ### Voir le diagramme du projet :
 Dans l'onglet Mobioos Forge Explorer, clique droit sur "BroadleafCommerce" -> MF : Design the feature model. Un nouvel onglet s'ouvre avec le diagramme.
-    
+![ImageCustomSCenarios](ReadmeImages/ReadmeImagesDiagramme.png)
+
 ### Voir le mappage des fichiers :
 Aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fichiers. 
 - pas de couleur = pas mappé (car essentiel ou pas d'importance côté utilisateur mais potentiellement inutilisé dans certains variants)
@@ -47,6 +48,7 @@ Aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fi
 2. Entrer le nom de votre configuration et appuyer sur Entrer (Il faut un nom qui ne soit pas déjà pris. Pour voir la liste des configurations déjà créer, dérouler l'onglet "Customization Scenarios")
 3. Un nouvel onglet apparait. Des cases sont déjà cochées, en jaune, c'est les éléments minimums nécessaires au bon fonctionnement du site. Vous pouvez rajouter des options en cliquant dessus.
 (Certaines options dépendent d'autres, comme "Login" et "Customer Account Informations", donc si vous en voulez une, l'autre ce cochera automatiquement.)
+![ImageCustomVariant](ReadmeImages/ReadmeImagesCustomVariant.png)
 4. Cliquer sur "Save"
 
 
@@ -61,7 +63,7 @@ Aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fi
     ```shell
     cd DemoSite ; mvn clean install ; cd site ; mvn spring-boot:run ; mvn spring-boot:run ; mvn spring-boot:run
     ```
-- Soit aller dans le répertoire "DemoSite", lancer la compilation avec 
+- Soit aller dans le répertoire "DemoSite", ouvrer un terminal et lancer la compilation avec 
     ```shell
     mvn clean install
     ``` 
@@ -85,3 +87,6 @@ Aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fi
 
 
     Pour se connecter ailleurs voir les autres ports sur [le github de Broadleaf Commerce Demo](https://github.com/BroadleafCommerce/DemoSite#active-ports)
+10. Shutdown le serveur :
+
+    Ctrl + C dans le terminal

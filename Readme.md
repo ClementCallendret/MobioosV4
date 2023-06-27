@@ -3,11 +3,12 @@ Readme:
 Ce projet se base sur la démo de Broadleaf Commerce : https://github.com/BroadleafCommerce/DemoSite
 
 ------------------------------------------------------------------------------------------------------
-Prérequis :
+## Prérequis :
 -Windows
+-Java
 -Visual Studio Code
 
-Extension vs code :
+-Extension vs code :
     Nécessaire : 
     -Mobioos Forge (extension id : Mobioos.mobioos-forge)
     -Extension Pack for Java (extension id : vscjava.vscode-java-pack)
@@ -15,7 +16,7 @@ Extension vs code :
     Optionnelle : 
     -Dependency Analytics (extension id : redhat.fabric8-analytics)
 ------------------------------------------------------------------------------------------------------
-Initialisation :
+## Initialisation :
     -LIRE LA DOC MOBIOOS : https://documentation.mobioos.ai/?id=what-is-mobioos-forge 
 
     -cloner le github dans votre répertoire favoris
@@ -30,14 +31,14 @@ Initialisation :
     -Un onglet nommé "BroadleafCommerce" apparait
 
 ------------------------------------------------------------------------------------------------------
-Utilisation :
-    -Voir diagramme du projet -> Dans l'onglet Mobioos Forge Explorer, clique droit sur "BroadleafCommerce" -> MF : Design the feature model. Un nouvel onglet s'ouvre avec le diagramme.
+## Utilisation :
+    # Voir diagramme du projet -> Dans l'onglet Mobioos Forge Explorer, clique droit sur "BroadleafCommerce" -> MF : Design the feature model. Un nouvel onglet s'ouvre avec le diagramme.
     
-    -Voir le mappage des fichiers -> aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fichiers. 
+    # Voir le mappage des fichiers -> aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fichiers. 
      pas de couleur = pas mappé (car essentiel ou pas d'importance côté utilisateur mais potentiellement inutilisé dans certains variants)
      une couleur = mappé, mettre la souris dessus et le nom de la feature correspondante à ce code apparaît.
 
-    -Créer un variant -> 
+    # Créer un variant -> 
         -Dans l'onglet Mobioos Forge Explorer, aller tout en bas à "Customization Scenarios", cliquer sur le "+" tout à droite du titre
         -Entrer le nom de votre configuration et appuyer sur Entrer (Il faut un nom qui ne soit pas déjà pris. Pour voir la liste des configurations déjà créer, dérouler l'onglet "Customization Scenarios")
         -Un nouvel onglet apparait. Des cases sont déjà cochées, en jaune, c'est les éléments minimums nécessaires au bon fonctionnement du site. Vous pouvez rajouter des options en cliquant dessus.

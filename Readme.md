@@ -18,7 +18,7 @@ Ce projet se base sur la démo de Broadleaf Commerce : https://github.com/Broadl
 1. [Lire la documentation Mobioos](https://documentation.mobioos.ai/?id=what-is-mobioos-forge ) 
 
 2. Cloner le github dans votre répertoire
-3. Supprimer le fichier .git, car Mobioos tentera de créer une branche par variant créé sur ce repo.
+3. Supprimer le fichier .git, car Mobioos tentera de créer une branche par variant créé sur ce repertoire.
 4. Ouvrir le projet dans Vscode
 5. Il y a 2 possibilités :
 

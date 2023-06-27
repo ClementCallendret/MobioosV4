@@ -3,6 +3,7 @@ Readme:
 Ce projet se base sur la démo de Broadleaf Commerce : https://github.com/BroadleafCommerce/DemoSite
 
 ------------------------------------------------------------------------------------------------------
+
 ## Prérequis :
 - `Windows 10`
 - `Java`
@@ -13,7 +14,9 @@ Ce projet se base sur la démo de Broadleaf Commerce : https://github.com/Broadl
     - `Mobioos Forge (extension id : Mobioos.mobioos-forge)`
     - `Extension Pack for Java (extension id : vscjava.vscode-java-pack)` 
     - `Dependency Analytics (extension id : redhat.fabric8-analytics)`
+
 ------------------------------------------------------------------------------------------------------
+
 ## Initialisation :
 1. [Lire la documentation Mobioos](https://documentation.mobioos.ai/?id=what-is-mobioos-forge ) 
 
@@ -32,6 +35,7 @@ Ce projet se base sur la démo de Broadleaf Commerce : https://github.com/Broadl
 8. Un onglet nommé "BroadleafCommerce" apparait
 
 ------------------------------------------------------------------------------------------------------
+
 ## Utilisation :
 ### Voir le diagramme du projet :
 Dans l'onglet Mobioos Forge Explorer, clique droit sur "BroadleafCommerce" -> MF : Design the feature model. Un nouvel onglet s'ouvre avec le diagramme.

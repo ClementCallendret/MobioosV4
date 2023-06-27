@@ -60,7 +60,7 @@ Aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fi
 5. Cliquer sur "Generate" : 2 possibilités en fonction de ce que vous avez choisi ci-dessus:
     - Si vous voulez votre variant sur une branche Github, verifier que votre branche actuel est Commit. Ecrire le nom de la branche qui va être créée et attendre que le variant soit push. (Ne pas se fier à la notification qui dit que c'est en cours de push, aller voir directement sur votre navigateur si c'est bon).
     Aller sur la branche voulu (rafraichir les infos de github pour faire apparaitre la branche sur Vscode)
-    -  Si vous voulez votre variant en local, appuyer sur Echap quand le nom de la branche est demandée. Cliquer sur la pop up à droite qui propose d'ouvrir le projet créé. Le variant est par défaut stocké à Users\VotreUsername\mobioos-forge-customizations
+    -  Si vous voulez votre variant en local, appuyer sur Echap quand le nom de la branche est demandée. Cliquer sur la pop up à droite qui propose d'ouvrir le projet créé dans Vscode. Le variant est par défaut stocké à Users\VotreUsername\mobioos-forge-customizations
 
 8. Maintenant le variant créé :
 - Soit ouvrer un terminal et entrer :

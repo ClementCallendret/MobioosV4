@@ -93,7 +93,7 @@ Aller à BroadleafCommerce -> DemoSite -> site -> src\main et cliquer sur des fi
     Pour se connecter ailleurs voir les autres ports sur [le github de Broadleaf Commerce Demo](https://github.com/BroadleafCommerce/DemoSite#active-ports)
 10. Shutdown le serveur :
 
-    Ctrl + C dans le terminal[.](https://www.asciiart.eu/movies/shrek)
+    Ctrl + C dans le terminal[.](r.mtdv.me/BroadleafCommerceDocumentation)
 
 
 

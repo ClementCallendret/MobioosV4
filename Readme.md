@@ -20,7 +20,7 @@ Initialisation :
 
     -cloner le github dans votre répertoire favoris
     -supprimer le fichier .git, car Mobioos tentera de créer une branche par variant créé sur ce repo.
-    -lancer Vscode
+    -ouvrir le projet dans Vscode
     -2 possibilités :
         -avoir les variants créé sur github -> Initialiser un répertoire github public 
         (Pourquoi un répertoire public ? Dans nos tests mobioos n'a pas réussi a push la branche sur un rep privé. Et une fois le projet Mobioos initialiser, changer le github de public à privé ne résoud pas le pb).
